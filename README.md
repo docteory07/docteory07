@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <img src="https://img.shields.io/badge/Java-F80000?style=flat-square&logo=oracle&logoColor=white"/>
 
 <!--
