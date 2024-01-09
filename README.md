@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge/Java-#F80000?style=flat-square&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/oracle-#F80000?style=flat-square&logo=Java&logoColor=white"/>
 
 <!--
 **docteory07/docteory07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
