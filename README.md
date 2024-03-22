@@ -1,4 +1,5 @@
-<img src="https://img.shields.io/badge/Java-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+<h3>Learning</h3>
+<img src="https://img.shields.io/badge/Java-F80000?style=flat-square&logo=oracle&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-#7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
 
 <!--
 **docteory07/docteory07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
