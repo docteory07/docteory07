@@ -1,9 +1,5 @@
-<h3>Learning</h3>
-<img style="display: inline" src="https://img.shields.io/badge/Java-F80000?style=flat-square&logo=oracle&logoColor=white"/> <img style="display: inline" src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
-<br>
-<br>
-<h3>Baekjoon</h3>
-![![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=docteory07)](https://solved.ac/docteory07/)
+#Baekjoon
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=docteory07)](https://solved.ac/docteory07/)
 <!--
 **docteory07/docteory07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
