@@ -1,5 +1,5 @@
 ### Portfolio
-## https://bit.ly/docteory07
+## https://bit.ly/gbsw-docteory07
 ### Baekjoon
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=docteory07)](https://solved.ac/docteory07/)
 <!--
